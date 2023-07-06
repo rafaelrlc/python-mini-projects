@@ -59,7 +59,7 @@ def timer_type():
 
 # WINDOW
 window = Tk()
-window.title("Pomorodo")
+window.title("Pomorodoaaa")
 window.config(padx=100, pady=80, background=YELLOW)
 
 # LABELS
